@@ -7,7 +7,7 @@ https://1drv.ms/u/s!AtYyVsurms8fepU223j4FwXeho8?e=CeeHIu [OneDrive]
 
 https://drive.google.com/file/d/1ngCkQ_KKTFlbMIOnqczKBK5b2eMrz8s4/view?usp=share_link [Google Drive]
 
-It is strongly recommended to directly download the code in zip format from one of the three links. Because it contains the OTB2015 dataset and more results, which can be can be directly tested and evaluated.
+It is strongly recommended to directly download the code in zip format from one of the three links. Because it contains the OTB2015 dataset and more results, which can be directly tested and evaluated.
 
 
 Official links of datasets:
